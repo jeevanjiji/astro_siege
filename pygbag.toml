@@ -1,0 +1,4 @@
+[pygbag]
+cdn = "https://cdn.jsdelivr.net/pyodide/"
+template = "custom"
+ume_block = 0
