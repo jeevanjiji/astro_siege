@@ -21,10 +21,11 @@
 
 - Python 3.x  
 - Pygame
+  
+## 🚀 HOW TO RUN
 
 Install dependencies:
-
 ```bash
 pip install pygame
-**HOW TO RUN
 python main.py
+
