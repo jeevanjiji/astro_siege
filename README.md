@@ -13,9 +13,9 @@
 - Background music and sound effects
 
 ## 🖼 Screenshots
-
-*(Add screenshots here by dragging them into the GitHub repo and linking like:)*  
-`![Screenshot](screenshots/menu.png)`
+![Menu Screenshot](1.png)
+![Gameplay](2.png)
+![EndGame](3.png)
 
 ## 🛠 Requirements
 
@@ -26,7 +26,5 @@ Install dependencies:
 
 ```bash
 pip install pygame
-
-HOW TO RUN
-```bash
+**HOW TO RUN
 python main.py
